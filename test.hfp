@@ -122,7 +122,7 @@
 			<CTI>0</CTI>
 			<InPoint>0</InPoint>
 			<OutPoint>7500</OutPoint>
-			<TimelineZoom>0</TimelineZoom>
+			<TimelineZoom>0.09</TimelineZoom>
 			<TimelineTimeFormat>1000</TimelineTimeFormat>
 			<TimelineSnapMode>1000</TimelineSnapMode>
 			<VideoPreviewSize>1001</VideoPreviewSize>
@@ -162,31 +162,31 @@
 										<fl>100</fl>
 									</Default>
 								</opacity>
-								<rotationZ Spatial="0" Type="1">
-									<Default V="2">
-										<fl>0</fl>
-									</Default>
-								</rotationZ>
-								<position Spatial="0" Type="1">
-									<Default V="2">
-										<p2 X="0" Y="0"/>
-									</Default>
-								</position>
 								<anchorPoint Spatial="0" Type="1">
 									<Default V="2">
 										<p2 X="0" Y="0"/>
 									</Default>
 								</anchorPoint>
-								<speed Spatial="0" Type="1">
+								<position Spatial="0" Type="1">
 									<Default V="2">
-										<db>1</db>
+										<p2 X="0" Y="0"/>
 									</Default>
-								</speed>
+								</position>
+								<rotationZ Spatial="0" Type="1">
+									<Default V="2">
+										<fl>0</fl>
+									</Default>
+								</rotationZ>
 								<scale Spatial="0" Type="1">
 									<Default V="2">
 										<sc X="100" Y="100" Z="100"/>
 									</Default>
 								</scale>
+								<speed Spatial="0" Type="1">
+									<Default V="2">
+										<db>1</db>
+									</Default>
+								</speed>
 								<scaleLinked Spatial="0" Type="1">
 									<Default V="2">
 										<b>1</b>
@@ -213,31 +213,31 @@
 										<fl>100</fl>
 									</Default>
 								</opacity>
-								<rotationZ Spatial="0" Type="1">
-									<Default V="2">
-										<fl>0</fl>
-									</Default>
-								</rotationZ>
-								<position Spatial="0" Type="1">
-									<Default V="2">
-										<p2 X="0" Y="0"/>
-									</Default>
-								</position>
 								<anchorPoint Spatial="0" Type="1">
 									<Default V="2">
 										<p2 X="0" Y="0"/>
 									</Default>
 								</anchorPoint>
-								<speed Spatial="0" Type="1">
+								<position Spatial="0" Type="1">
 									<Default V="2">
-										<db>1</db>
+										<p2 X="0" Y="0"/>
 									</Default>
-								</speed>
+								</position>
+								<rotationZ Spatial="0" Type="1">
+									<Default V="2">
+										<fl>0</fl>
+									</Default>
+								</rotationZ>
 								<scale Spatial="0" Type="1">
 									<Default V="2">
 										<sc X="100" Y="100" Z="100"/>
 									</Default>
 								</scale>
+								<speed Spatial="0" Type="1">
+									<Default V="2">
+										<db>1</db>
+									</Default>
+								</speed>
 								<scaleLinked Spatial="0" Type="1">
 									<Default V="2">
 										<b>1</b>
@@ -253,8 +253,8 @@
 							<AssetID>bc9f1a8c-3974-49f1-bcbb-af64c967154e</AssetID>
 							<AssetType>1</AssetType>
 							<AssetInstanceStart>0</AssetInstanceStart>
-							<StartFrame>509</StartFrame>
-							<EndFrame>659</EndFrame>
+							<StartFrame>300</StartFrame>
+							<EndFrame>450</EndFrame>
 							<ParentTrackID>42061cb3-9587-46e7-8287-6e447bb95139</ParentTrackID>
 							<LinkedObjectID>00000000-0000-0000-0000-000000000000</LinkedObjectID>
 							<BlendMode>0</BlendMode>
@@ -264,31 +264,31 @@
 										<fl>100</fl>
 									</Default>
 								</opacity>
-								<rotationZ Spatial="0" Type="1">
-									<Default V="2">
-										<fl>0</fl>
-									</Default>
-								</rotationZ>
-								<position Spatial="0" Type="1">
-									<Default V="2">
-										<p2 X="0" Y="0"/>
-									</Default>
-								</position>
 								<anchorPoint Spatial="0" Type="1">
 									<Default V="2">
 										<p2 X="0" Y="0"/>
 									</Default>
 								</anchorPoint>
-								<speed Spatial="0" Type="1">
+								<position Spatial="0" Type="1">
 									<Default V="2">
-										<db>1</db>
+										<p2 X="0" Y="0"/>
 									</Default>
-								</speed>
+								</position>
+								<rotationZ Spatial="0" Type="1">
+									<Default V="2">
+										<fl>0</fl>
+									</Default>
+								</rotationZ>
 								<scale Spatial="0" Type="1">
 									<Default V="2">
 										<sc X="100" Y="100" Z="100"/>
 									</Default>
 								</scale>
+								<speed Spatial="0" Type="1">
+									<Default V="2">
+										<db>1</db>
+									</Default>
+								</speed>
 								<scaleLinked Spatial="0" Type="1">
 									<Default V="2">
 										<b>1</b>
@@ -344,11 +344,11 @@
 			<int32_t>
 				<Item K="2713204076" V="1200"/>
 				<Item K="2713204575" V="2"/>
-				<Item K="2713203975" V="1001"/>
 				<Item K="2713204082" V="16"/>
 				<Item K="2713203978" V="0"/>
-				<Item K="2713203977" V="1001"/>
+				<Item K="2713203975" V="1001"/>
 				<Item K="2713204083" V="32"/>
+				<Item K="2713203977" V="1001"/>
 				<Item K="2713203976" V="1000"/>
 				<Item K="2713204775" V="0"/>
 				<Item K="2713204776" V="0"/>
