@@ -1,0 +1,369 @@
+<?xml version="1.0" ?>
+<BiffProject AppEdition="2000" AppVersion="3.0.3716.39084" CurrentScreen="2">
+	<Project Version="2">
+		<ID>cc1ac865-56d2-4ae7-8769-260799e8010e</ID>
+		<Name/>
+		<ProjectSettings Version="1">
+			<BPC>1000</BPC>
+			<AntialiasingMode>1</AntialiasingMode>
+		</ProjectSettings>
+		<AssetList Version="2">
+			<Assets>
+				<CompositionAsset Version="8">
+					<ID>c19708fc-2aaf-488c-8fb7-bec0fc9039d0</ID>
+					<Name>Composite Shot 1</Name>
+					<ParentFolderID>00000000-0000-0000-0000-000000000000</ParentFolderID>
+					<CTI>0</CTI>
+					<InPoint>0</InPoint>
+					<OutPoint>750</OutPoint>
+					<TimelineZoom>0</TimelineZoom>
+					<SplitterPosition>440</SplitterPosition>
+					<TimelineTimeFormat>1000</TimelineTimeFormat>
+					<TimelineSnapMode>1000</TimelineSnapMode>
+					<AudioVideoSettings Version="0">
+						<FrameCount>750</FrameCount>
+						<AudioSampleRate>48000</AudioSampleRate>
+						<Width>1280</Width>
+						<Height>720</Height>
+						<Fields>0</Fields>
+						<PAR>0</PAR>
+						<PARCustom>1</PARCustom>
+						<FrameRate>25</FrameRate>
+					</AudioVideoSettings>
+					<RenderSettings Version="1">
+						<FogEnabled>0</FogEnabled>
+						<FogNearDistance>900</FogNearDistance>
+						<FogFarDistance>2000</FogFarDistance>
+						<FogDensity>1</FogDensity>
+						<FogColor A="1" B="0" G="0" R="0"/>
+						<FogFalloff>0</FogFalloff>
+						<MotionBlurEnabled>1</MotionBlurEnabled>
+						<ShutterAngle>180</ShutterAngle>
+						<ShutterPhase>-90</ShutterPhase>
+						<MaxNumOfSamples>20</MaxNumOfSamples>
+						<UseAdaptiveSamples>1</UseAdaptiveSamples>
+					</RenderSettings>
+					<Layers/>
+					<Instances/>
+					<ViewerState Version="2">
+						<CurrentLayout>0</CurrentLayout>
+						<Layout0 Pos0="22bb8e6a-a2b0-42c8-8448-8e58dbbf8f95"/>
+						<Layout1/>
+						<Layout2 Sp0="0.5" Sp1="0" Sp2="0"/>
+						<Layout3 Sp0="0.5" Sp1="0" Sp2="0.5"/>
+						<Layout4 Sp0="0.5" Sp1="0.5" Sp2="0.5"/>
+						<Views>
+							<State Active="1" CameraScale="1" ID="22bb8e6a-a2b0-42c8-8448-8e58dbbf8f95" Layout="0" TextureScale="0.648837" Type="0">
+								<TexturePosition X="0" Y="0"/>
+								<TextureAnchorPoint X="0" Y="0"/>
+								<CameraPosition X="0" Y="0" Z="0"/>
+								<CameraRotation X="0" Y="0" Z="0"/>
+								<Options BiTo="1" Ch="0" DOF="1" Gz="0" Li="1" MB="1" MoPa="1" Qu="2" Sh="1" TrCb="0" TrPa="1" Vol="1" WoAx="1">
+									<BGColor A="0" B="0" G="0" R="0"/>
+								</Options>
+							</State>
+						</Views>
+					</ViewerState>
+				</CompositionAsset>
+				<ImageAsset Version="2">
+					<ID>749afc80-0f09-4d27-aa68-7ce0074a5b87</ID>
+					<Name>20130811_185559.jpg</Name>
+					<ParentFolderID>00000000-0000-0000-0000-000000000000</ParentFolderID>
+					<Filename>\\pc-chanu_jc\d\Stock_Pinnacle\Photos\Photos_Montages\Pour Simon Pelemele Final\20130811_185559.jpg</Filename>
+					<PAR>0</PAR>
+					<OverrideAlpha>0</OverrideAlpha>
+					<AlphaMode>0</AlphaMode>
+					<Instances>
+						<Instance ID="6eb72fc2-1001-412d-a6fa-390d260fd36f" Type="0"/>
+					</Instances>
+				</ImageAsset>
+				<ImageAsset Version="2">
+					<ID>ff61a560-acc9-4909-84a9-797698fe8e0f</ID>
+					<Name>20130811_185605.jpg</Name>
+					<ParentFolderID>00000000-0000-0000-0000-000000000000</ParentFolderID>
+					<Filename>\\pc-chanu_jc\d\Stock_Pinnacle\Photos\Photos_Montages\Pour Simon Pelemele Final\20130811_185605.jpg</Filename>
+					<PAR>0</PAR>
+					<OverrideAlpha>0</OverrideAlpha>
+					<AlphaMode>0</AlphaMode>
+					<Instances>
+						<Instance ID="22161e90-6aea-48fa-aadf-84dd320461ec" Type="0"/>
+					</Instances>
+				</ImageAsset>
+				<ImageAsset Version="2">
+					<ID>bc9f1a8c-3974-49f1-bcbb-af64c967154e</ID>
+					<Name>20130811_190345.jpg</Name>
+					<ParentFolderID>00000000-0000-0000-0000-000000000000</ParentFolderID>
+					<Filename>\\pc-chanu_jc\d\Stock_Pinnacle\Photos\Photos_Montages\Pour Simon Pelemele Final\20130811_190345.jpg</Filename>
+					<PAR>0</PAR>
+					<OverrideAlpha>0</OverrideAlpha>
+					<AlphaMode>0</AlphaMode>
+					<Instances>
+						<Instance ID="ef5fc50f-07e6-4e69-b9fe-7d6af2190edf" Type="0"/>
+					</Instances>
+				</ImageAsset>
+			</Assets>
+			<BinFolder Version="0">
+				<ID>f4b1339a-d44b-4bf4-8ea2-47ff529940d8</ID>
+				<IsExpanded>0</IsExpanded>
+				<Name>Root</Name>
+				<ParentFolderID>00000000-0000-0000-0000-000000000000</ParentFolderID>
+				<Assets>
+					<ID>c19708fc-2aaf-488c-8fb7-bec0fc9039d0</ID>
+					<ID>749afc80-0f09-4d27-aa68-7ce0074a5b87</ID>
+					<ID>ff61a560-acc9-4909-84a9-797698fe8e0f</ID>
+					<ID>bc9f1a8c-3974-49f1-bcbb-af64c967154e</ID>
+				</Assets>
+				<SubFolders/>
+			</BinFolder>
+		</AssetList>
+		<EditorSequence Version="2">
+			<ID>41743230-ea7f-4d26-a50e-44bde9e710fa</ID>
+			<Name>Editor</Name>
+			<CTI>0</CTI>
+			<InPoint>0</InPoint>
+			<OutPoint>7500</OutPoint>
+			<TimelineZoom>0</TimelineZoom>
+			<TimelineTimeFormat>1000</TimelineTimeFormat>
+			<TimelineSnapMode>1000</TimelineSnapMode>
+			<VideoPreviewSize>1001</VideoPreviewSize>
+			<AudioPreviewSize>1001</AudioPreviewSize>
+			<PreviewMode>1002</PreviewMode>
+			<AudioVideoSettings Version="0">
+				<FrameCount>7500</FrameCount>
+				<AudioSampleRate>48000</AudioSampleRate>
+				<Width>1280</Width>
+				<Height>720</Height>
+				<Fields>0</Fields>
+				<PAR>0</PAR>
+				<PARCustom>0</PARCustom>
+				<FrameRate>25</FrameRate>
+			</AudioVideoSettings>
+			<Video>
+				<VideoTrack Version="0">
+					<ID>42061cb3-9587-46e7-8287-6e447bb95139</ID>
+					<Name>Video 1</Name>
+					<Visible>1</Visible>
+					<Objects>
+						<VisualObject Version="1">
+							<ID>6eb72fc2-1001-412d-a6fa-390d260fd36f</ID>
+							<SequenceID>41743230-ea7f-4d26-a50e-44bde9e710fa</SequenceID>
+							<Name>20130811_185559.jpg</Name>
+							<AssetID>749afc80-0f09-4d27-aa68-7ce0074a5b87</AssetID>
+							<AssetType>1</AssetType>
+							<AssetInstanceStart>0</AssetInstanceStart>
+							<StartFrame>0</StartFrame>
+							<EndFrame>150</EndFrame>
+							<ParentTrackID>42061cb3-9587-46e7-8287-6e447bb95139</ParentTrackID>
+							<LinkedObjectID>00000000-0000-0000-0000-000000000000</LinkedObjectID>
+							<BlendMode>0</BlendMode>
+							<PropertyManager Version="1">
+								<opacity Spatial="0" Type="0">
+									<Default V="2">
+										<fl>100</fl>
+									</Default>
+								</opacity>
+								<rotationZ Spatial="0" Type="1">
+									<Default V="2">
+										<fl>0</fl>
+									</Default>
+								</rotationZ>
+								<position Spatial="0" Type="1">
+									<Default V="2">
+										<p2 X="0" Y="0"/>
+									</Default>
+								</position>
+								<anchorPoint Spatial="0" Type="1">
+									<Default V="2">
+										<p2 X="0" Y="0"/>
+									</Default>
+								</anchorPoint>
+								<speed Spatial="0" Type="1">
+									<Default V="2">
+										<db>1</db>
+									</Default>
+								</speed>
+								<scale Spatial="0" Type="1">
+									<Default V="2">
+										<sc X="100" Y="100" Z="100"/>
+									</Default>
+								</scale>
+								<scaleLinked Spatial="0" Type="1">
+									<Default V="2">
+										<b>1</b>
+									</Default>
+								</scaleLinked>
+							</PropertyManager>
+							<Effects/>
+						</VisualObject>
+						<VisualObject Version="1">
+							<ID>22161e90-6aea-48fa-aadf-84dd320461ec</ID>
+							<SequenceID>41743230-ea7f-4d26-a50e-44bde9e710fa</SequenceID>
+							<Name>20130811_185605.jpg</Name>
+							<AssetID>ff61a560-acc9-4909-84a9-797698fe8e0f</AssetID>
+							<AssetType>1</AssetType>
+							<AssetInstanceStart>0</AssetInstanceStart>
+							<StartFrame>150</StartFrame>
+							<EndFrame>300</EndFrame>
+							<ParentTrackID>42061cb3-9587-46e7-8287-6e447bb95139</ParentTrackID>
+							<LinkedObjectID>00000000-0000-0000-0000-000000000000</LinkedObjectID>
+							<BlendMode>0</BlendMode>
+							<PropertyManager Version="1">
+								<opacity Spatial="0" Type="0">
+									<Default V="2">
+										<fl>100</fl>
+									</Default>
+								</opacity>
+								<rotationZ Spatial="0" Type="1">
+									<Default V="2">
+										<fl>0</fl>
+									</Default>
+								</rotationZ>
+								<position Spatial="0" Type="1">
+									<Default V="2">
+										<p2 X="0" Y="0"/>
+									</Default>
+								</position>
+								<anchorPoint Spatial="0" Type="1">
+									<Default V="2">
+										<p2 X="0" Y="0"/>
+									</Default>
+								</anchorPoint>
+								<speed Spatial="0" Type="1">
+									<Default V="2">
+										<db>1</db>
+									</Default>
+								</speed>
+								<scale Spatial="0" Type="1">
+									<Default V="2">
+										<sc X="100" Y="100" Z="100"/>
+									</Default>
+								</scale>
+								<scaleLinked Spatial="0" Type="1">
+									<Default V="2">
+										<b>1</b>
+									</Default>
+								</scaleLinked>
+							</PropertyManager>
+							<Effects/>
+						</VisualObject>
+						<VisualObject Version="1">
+							<ID>ef5fc50f-07e6-4e69-b9fe-7d6af2190edf</ID>
+							<SequenceID>41743230-ea7f-4d26-a50e-44bde9e710fa</SequenceID>
+							<Name>20130811_190345.jpg</Name>
+							<AssetID>bc9f1a8c-3974-49f1-bcbb-af64c967154e</AssetID>
+							<AssetType>1</AssetType>
+							<AssetInstanceStart>0</AssetInstanceStart>
+							<StartFrame>509</StartFrame>
+							<EndFrame>659</EndFrame>
+							<ParentTrackID>42061cb3-9587-46e7-8287-6e447bb95139</ParentTrackID>
+							<LinkedObjectID>00000000-0000-0000-0000-000000000000</LinkedObjectID>
+							<BlendMode>0</BlendMode>
+							<PropertyManager Version="1">
+								<opacity Spatial="0" Type="0">
+									<Default V="2">
+										<fl>100</fl>
+									</Default>
+								</opacity>
+								<rotationZ Spatial="0" Type="1">
+									<Default V="2">
+										<fl>0</fl>
+									</Default>
+								</rotationZ>
+								<position Spatial="0" Type="1">
+									<Default V="2">
+										<p2 X="0" Y="0"/>
+									</Default>
+								</position>
+								<anchorPoint Spatial="0" Type="1">
+									<Default V="2">
+										<p2 X="0" Y="0"/>
+									</Default>
+								</anchorPoint>
+								<speed Spatial="0" Type="1">
+									<Default V="2">
+										<db>1</db>
+									</Default>
+								</speed>
+								<scale Spatial="0" Type="1">
+									<Default V="2">
+										<sc X="100" Y="100" Z="100"/>
+									</Default>
+								</scale>
+								<scaleLinked Spatial="0" Type="1">
+									<Default V="2">
+										<b>1</b>
+									</Default>
+								</scaleLinked>
+							</PropertyManager>
+							<Effects/>
+						</VisualObject>
+					</Objects>
+				</VideoTrack>
+				<VideoTrack Version="0">
+					<ID>4928d0cf-1119-4a73-ad55-6ece6b529b25</ID>
+					<Name>Video 2</Name>
+					<Visible>1</Visible>
+					<Objects/>
+				</VideoTrack>
+			</Video>
+			<Audio>
+				<AudioTrack Version="0">
+					<ID>88a1181c-a6bc-465f-8020-cc9110e377d0</ID>
+					<Name>Audio 1</Name>
+					<Muted>0</Muted>
+					<Level>0</Level>
+					<Objects/>
+				</AudioTrack>
+			</Audio>
+			<ViewerState Version="2">
+				<CurrentLayout>0</CurrentLayout>
+				<Layout0 Pos0="c833ea1b-6d00-406e-b0af-1a51ecf60462"/>
+				<Layout1/>
+				<Layout2 Sp0="0.5" Sp1="0" Sp2="0"/>
+				<Layout3 Sp0="0.5" Sp1="0" Sp2="0.5"/>
+				<Layout4 Sp0="0.5" Sp1="0.5" Sp2="0.5"/>
+				<Views>
+					<State Active="1" CameraScale="1" ID="c833ea1b-6d00-406e-b0af-1a51ecf60462" Layout="0" TextureScale="0.648837" Type="0">
+						<TexturePosition X="0" Y="0"/>
+						<TextureAnchorPoint X="0" Y="0"/>
+						<CameraPosition X="0" Y="0" Z="0"/>
+						<CameraRotation X="0" Y="0" Z="0"/>
+						<Options BiTo="1" Ch="0" DOF="1" Gz="0" Li="1" MB="1" MoPa="1" Qu="2" Sh="1" TrCb="0" TrPa="1" Vol="1" WoAx="1">
+							<BGColor A="0" B="0" G="0" R="0"/>
+						</Options>
+					</State>
+				</Views>
+			</ViewerState>
+		</EditorSequence>
+		<Metadata Version="0">
+			<bool>
+				<Item K="2713204577" V="1"/>
+				<Item K="2713203979" V="0"/>
+				<Item K="2713204777" V="0"/>
+			</bool>
+			<int32_t>
+				<Item K="2713204076" V="1200"/>
+				<Item K="2713204575" V="2"/>
+				<Item K="2713203975" V="1001"/>
+				<Item K="2713204082" V="16"/>
+				<Item K="2713203978" V="0"/>
+				<Item K="2713203977" V="1001"/>
+				<Item K="2713204083" V="32"/>
+				<Item K="2713203976" V="1000"/>
+				<Item K="2713204775" V="0"/>
+				<Item K="2713204776" V="0"/>
+				<Item K="2713204075" V="1001"/>
+				<Item K="2713205475" V="1001"/>
+			</int32_t>
+			<float/>
+			<FXID>
+				<Item K="2713204077" V="41743230-ea7f-4d26-a50e-44bde9e710fa"/>
+			</FXID>
+			<wstring/>
+		</Metadata>
+	</Project>
+	<OpenCompositeShots TimelineId="41743230-ea7f-4d26-a50e-44bde9e710fa" TimelineType="1200" Version="0">
+		<CompositeShot CompositionId="c19708fc-2aaf-488c-8fb7-bec0fc9039d0" Name="Composite Shot 1"/>
+	</OpenCompositeShots>
+	<Screens/>
+</BiffProject>
