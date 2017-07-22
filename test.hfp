@@ -265,31 +265,31 @@
 										<fl>100</fl>
 									</Default>
 								</opacity>
-								<rotationZ Spatial="0" Type="1">
-									<Default V="2">
-										<fl>0</fl>
-									</Default>
-								</rotationZ>
-								<position Spatial="0" Type="1">
-									<Default V="2">
-										<p2 X="0" Y="0"/>
-									</Default>
-								</position>
 								<anchorPoint Spatial="0" Type="1">
 									<Default V="2">
 										<p2 X="0" Y="0"/>
 									</Default>
 								</anchorPoint>
-								<speed Spatial="0" Type="1">
+								<position Spatial="0" Type="1">
 									<Default V="2">
-										<db>1</db>
+										<p2 X="0" Y="0"/>
 									</Default>
-								</speed>
+								</position>
+								<rotationZ Spatial="0" Type="1">
+									<Default V="2">
+										<fl>0</fl>
+									</Default>
+								</rotationZ>
 								<scale Spatial="0" Type="1">
 									<Default V="2">
 										<sc X="100" Y="100" Z="100"/>
 									</Default>
 								</scale>
+								<speed Spatial="0" Type="1">
+									<Default V="2">
+										<db>1</db>
+									</Default>
+								</speed>
 								<scaleLinked Spatial="0" Type="1">
 									<Default V="2">
 										<b>1</b>
@@ -305,8 +305,8 @@
 							<AssetID>bc9f1a8c-3974-49f1-bcbb-af64c967154e</AssetID>
 							<AssetType>1</AssetType>
 							<AssetInstanceStart>0</AssetInstanceStart>
-							<StartFrame>509</StartFrame>
-							<EndFrame>659</EndFrame>
+							<StartFrame>300</StartFrame>
+							<EndFrame>450</EndFrame>
 							<ParentTrackID>42061cb3-9587-46e7-8287-6e447bb95139</ParentTrackID>
 							<LinkedObjectID>00000000-0000-0000-0000-000000000000</LinkedObjectID>
 							<BlendMode>0</BlendMode>
